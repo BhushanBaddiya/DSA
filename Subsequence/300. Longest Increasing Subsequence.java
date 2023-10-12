@@ -1,5 +1,6 @@
 package DSA.Subsequence;
 
+https://practice.geeksforgeeks.org/problems/longest-increasing-subsequence-1587115620/1
  class Solution {
     public int recur(int [] nums,int idx,int next){
         if(idx < 0){
